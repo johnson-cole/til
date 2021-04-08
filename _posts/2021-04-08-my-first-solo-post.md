@@ -4,4 +4,4 @@
 ---
 
 - If you are unable to debug an error, you should confirm that the .rb file is autosaving in Gitpod. For whatever reason, Autosave was turned off for "acronym.rb" so my changes to the script weren't being executed when I ran it. Jeepers!
-- 
+- Ruby's map method is pretty cool - https://www.rubyguides.com/2018/10/ruby-map-method/
