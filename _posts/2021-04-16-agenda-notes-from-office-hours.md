@@ -1,4 +1,4 @@
-# Office hours with Raghu
+## Office hours with Raghu
 ---
 
 ### Agenda
