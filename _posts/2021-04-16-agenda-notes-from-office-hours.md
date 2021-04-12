@@ -1,5 +1,4 @@
-# Plans for the rest of the course and beyond
-## Office hours with Raghu
+# Office hours with Raghu
 ---
 
 ### Agenda
